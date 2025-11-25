@@ -6,3 +6,11 @@ repo to track what am I learning :)
 
   - as of now mostly backend related stuff like designing principles and some api based projects
   - currently gonna working on `mnah05/redisserver` a redis server implementation in go :)
+
+
+
+### what I plan to learn
+
+- docker: good enough to run and manage containers which I work with
+- db: crud,indexing and performance, acid and some more patterns
+- Some Basic system implementation e.g. EDA/MDA
